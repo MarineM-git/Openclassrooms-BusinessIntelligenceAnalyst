@@ -207,6 +207,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>12</approx-count>
               <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[parcours_pro.csv_53B289A68B544378977333DC4E7933D6]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>fonction</remote-name>
@@ -221,6 +222,7 @@
               <approx-count>12</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LFR_RFR' />
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[parcours_pro.csv_53B289A68B544378977333DC4E7933D6]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>fonction_type</remote-name>
@@ -235,6 +237,7 @@
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LFR_RFR' />
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[parcours_pro.csv_53B289A68B544378977333DC4E7933D6]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>date_debut</remote-name>
@@ -248,6 +251,7 @@
               <aggregation>Year</aggregation>
               <approx-count>11</approx-count>
               <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[parcours_pro.csv_53B289A68B544378977333DC4E7933D6]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>date_fin</remote-name>
@@ -261,6 +265,7 @@
               <aggregation>Year</aggregation>
               <approx-count>12</approx-count>
               <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[parcours_pro.csv_53B289A68B544378977333DC4E7933D6]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>duree_jours</remote-name>
@@ -274,6 +279,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>11</approx-count>
               <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[parcours_pro.csv_53B289A68B544378977333DC4E7933D6]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>missions_principales</remote-name>
@@ -288,6 +294,7 @@
               <approx-count>11</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LFR_RFR' />
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[parcours_pro.csv_53B289A68B544378977333DC4E7933D6]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
             </metadata-record>
           </metadata-records>
         </connection>
@@ -588,7 +595,6 @@
               <approx-count>11</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LFR_RFR' />
-              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[projets_oc.csv_938B0A7FAC9F4A3DBD2F9CCD7F11950B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>projet_titre</remote-name>
@@ -603,7 +609,6 @@
               <approx-count>11</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LFR_RFR' />
-              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[projets_oc.csv_938B0A7FAC9F4A3DBD2F9CCD7F11950B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>projet_description</remote-name>
@@ -618,7 +623,6 @@
               <approx-count>11</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LFR_RFR' />
-              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[projets_oc.csv_938B0A7FAC9F4A3DBD2F9CCD7F11950B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>outils</remote-name>
@@ -633,7 +637,6 @@
               <approx-count>8</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LFR_RFR' />
-              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[projets_oc.csv_938B0A7FAC9F4A3DBD2F9CCD7F11950B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>livrables</remote-name>
@@ -648,7 +651,6 @@
               <approx-count>1</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LFR_RFR' />
-              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[projets_oc.csv_938B0A7FAC9F4A3DBD2F9CCD7F11950B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>domaine</remote-name>
@@ -663,7 +665,6 @@
               <approx-count>8</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LFR_RFR' />
-              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[projets_oc.csv_938B0A7FAC9F4A3DBD2F9CCD7F11950B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>compétences_cibles</remote-name>
@@ -678,7 +679,6 @@
               <approx-count>11</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LFR_RFR' />
-              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[projets_oc.csv_938B0A7FAC9F4A3DBD2F9CCD7F11950B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>projet_numero</remote-name>
@@ -692,7 +692,6 @@
               <aggregation>Sum</aggregation>
               <approx-count>11</approx-count>
               <contains-null>true</contains-null>
-              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[projets_oc.csv_938B0A7FAC9F4A3DBD2F9CCD7F11950B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>ProjetGit</remote-name>
@@ -707,7 +706,6 @@
               <approx-count>11</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LFR_RFR' />
-              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[projets_oc.csv_938B0A7FAC9F4A3DBD2F9CCD7F11950B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
             </metadata-record>
           </metadata-records>
         </connection>
@@ -1675,7 +1673,7 @@
                   </zone-style>
                 </zone>
               </zone>
-              <zone h='8225' id='41' is-scaled='1' param='C:/Users/Marine/Downloads/cv.png' type-v2='bitmap' url='https://github.com/MarineM-git/Openclassrooms/blob/main/Marine%20MINE_CV-2024.pdf' w='14458' x='6835' y='90708'>
+              <zone h='8225' id='41' is-scaled='1' param='C:/Users/Marine/Downloads/cv.png' type-v2='bitmap' url='https://github.com/MarineM-git/MarIneM-git/blob/main/Marine%20MINE_CV-2024.pdf' w='14458' x='6835' y='90708'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -1733,8 +1731,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1650' minheight='1650' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='124' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97866' id='123' param='vert' type-v2='layout-flow' w='98858' x='571' y='1067'>
+            <zone h='100000' id='126' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97866' id='125' param='vert' type-v2='layout-flow' w='98858' x='571' y='1067'>
                 <zone fixed-size='175' h='24456' id='22' is-centered='0' is-fixed='true' is-scaled='1' param='C:/Users/Marine/Documents/Gestion Quotidienne/photo cv.png' type-v2='bitmap' w='14357' x='571' y='1067'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -1831,7 +1829,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='54' h='8225' id='41' is-fixed='true' is-scaled='1' param='C:/Users/Marine/Downloads/cv.png' type-v2='bitmap' url='https://github.com/MarineM-git/Openclassrooms/blob/main/Marine%20MINE_CV-2024.pdf' w='14458' x='6835' y='90708'>
+                <zone fixed-size='54' h='8225' id='41' is-fixed='true' is-scaled='1' param='C:/Users/Marine/Downloads/cv.png' type-v2='bitmap' url='https://github.com/MarineM-git/MarIneM-git/blob/main/Marine%20MINE_CV-2024.pdf' w='14458' x='6835' y='90708'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1940,8 +1938,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='69' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97866' id='68' param='vert' type-v2='layout-flow' w='98858' x='571' y='1067'>
+            <zone h='100000' id='71' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='70' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone fixed-size='280' h='90252' id='8' is-fixed='true' name='Filtre_projets' w='16196' x='571' y='1067'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -1992,7 +1990,7 @@
       <simple-id uuid='{F7511B4C-3521-4B7D-8BAF-54688EEC4757}' />
     </dashboard>
   </dashboards>
-  <windows source-height='72'>
+  <windows saved-dpi-scale-factor='1.25' source-height='72'>
     <window class='worksheet' name='Logiciels'>
       <cards>
         <edge name='left'>
