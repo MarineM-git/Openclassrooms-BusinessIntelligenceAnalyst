@@ -1,6 +1,6 @@
 # Projet 4 : Collecter des données en respectant les normes RGPD
 
-## Mission :
+## Missions :
 
 Une société fictive d'assurance automobile fait face à une mise en demeure de la CNIL pour non respect des consignes du RGPD. Il faut :
 - Proposer des recommandations de règles de gestion à mettre en place afin de respecter ce règlement européen
