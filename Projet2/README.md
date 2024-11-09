@@ -8,4 +8,4 @@ Une banque fictive, Primero Bank, s'inquiète de nomrbeux départs de clients. L
 - Utiliser de bonnes pratiques d'accessibilité
 
 ## Technologies :
-Microsoft Excel
+- Microsoft Excel
