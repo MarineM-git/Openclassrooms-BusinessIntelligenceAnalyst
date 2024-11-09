@@ -6,7 +6,7 @@ Une société fictive en assurance souhaite être aidée à analyser le marché 
 ## Compétences : 
 - Charger des données dans une base de données
 - Créer un schéma d'une base de données
-- Rédiger des srequêtes simples en SQL
+- Rédiger des requêtes simples en SQL
 
 ## Technologies : 
 - PostgreSQL
