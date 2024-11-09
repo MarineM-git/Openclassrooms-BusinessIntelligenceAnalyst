@@ -17,3 +17,7 @@ Répondre à une offre d'emploi d'une société fictive, Aéroworld, en présent
 - Internet
 - Tableau Software
 - PowerBi
+
+## Livrables externes : 
+- Profil Tableau Public : [ici](https://youtu.be/z_O-ikYQHFs)
+- Tutoriel Youtube sur PowerBi : [ici](https://public.tableau.com/app/profile/marine.mine/viz/Profil_17295145869220/CV_page1)
